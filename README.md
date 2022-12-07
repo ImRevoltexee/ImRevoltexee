@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Revolt</h1>
 <h3 align="center">Just Someone Who Loves Programming World</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imrevoltexee&label=Profile%20views&color=0e75b6&style=flat" alt="imrevoltexee" /> </p>
 
 - 🤔 I’m looking for help with **www.mrrevolt.my.id/**
 
