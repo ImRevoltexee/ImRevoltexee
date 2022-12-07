@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **revoltexee@gmail.com**
 
-- ⚡ Fun fact **many people say I look like Jefri Nichol**
+- ⚡ Fun fact **many people say I look like Jefri Nichol 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
