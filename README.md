@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://save.mrrevolt.my.id/components/storage/app/public/photos/1/Gh/1669112892731.png" width="100%" alt="API Giphy logo"/>
+<img src="https://i.ibb.co/RbnJBMw/1669112892731.png" width="100%" alt="API Giphy logo"/>
 
 </p>
 
