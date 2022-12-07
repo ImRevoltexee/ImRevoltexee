@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrevoltexee&show_icons=true&locale=en" alt="imrevoltexee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrevoltexee&" alt="imrevoltexee" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imrevoltexee&label=Profile%20views&color=0e75b6&style=flat" alt="imrevoltexee" /> </p>
