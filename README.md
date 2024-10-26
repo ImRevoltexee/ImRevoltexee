@@ -16,11 +16,11 @@
 
 - 🤔 I’m looking for help with **www.mrrevolt.my.id/**
 
-- 👨‍💻 All of my projects are available at [www.revolt.my.id](www.revolt.my.id)
+- 👨‍💻 All of my projects are available at [api.revolt.xyz](https://api.revolt.xyz)
 
-- 📝 I regularly write articles on [https://revolttermux.blogspot.com](https://revolttermux.blogspot.com)
+- 📝 I regularly write articles on [mr-revolt.blogspot.com](https://mr-revolt.blogspot.com)
 
-- 📫 How to reach me **revoltexee@gmail.com**
+- 📫 How to reach me **revolt@nextisekai.tech**
 
 - ⚡ Fun fact **many people say I look like Jefri Nichol 😎**
 
