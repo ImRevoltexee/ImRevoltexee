@@ -14,7 +14,7 @@
 <h3 align="center">Just Someone Who Loves Programming World</h3>
 
 
-- 🤔 I’m looking for help with **www.mrrevolt.my.id/**
+- 🤔 I’m looking for help with **www.nextisekai.tech**
 
 - 👨‍💻 All of my projects are available at [api.revolt.xyz](https://api.revolt.xyz)
 
