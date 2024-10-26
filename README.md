@@ -16,7 +16,7 @@
 
 - 🤔 I’m looking for help with [nextisekai.tech](https://nextisekai.tech)
 
-- 👨‍💻 All of my projects are available at [api.revolt.xyz](https://api.revolt.xyz)
+- 👨‍💻 All of my projects are available at [api.revolt.com](https://api.revolt.us.kg)
 
 - 📝 I regularly write articles on [mr-revolt.blogspot.com](https://mr-revolt.blogspot.com)
 
