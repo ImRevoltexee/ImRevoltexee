@@ -32,7 +32,7 @@
 
 
 <h3 align="left">Support Me:</h3>
-<p><a href="https://saweria.co/MrRevolt"> <img align="left" src="https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhomepage_characters.a1cf6cc4.svg&w=3840&q=75" height="50" width="90" alt="Revolt" /></a></p><br><br>
+<p><a href="https://saweria.co/Revolt"> <img align="left" src="https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhomepage_characters.a1cf6cc4.svg&w=3840&q=75" height="50" width="90" alt="Revolt" /></a></p><br><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrevoltexee&show_icons=true&locale=en&layout=compact" alt="imrevoltexee" /></p>
