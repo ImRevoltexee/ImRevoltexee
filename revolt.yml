@@ -6,7 +6,7 @@ on:
       - main
       
   schedule:
-    - cron: "0 */12 * * 1-6"
+    - cron: "0 */5 * * 1-6"
     # visit https://crontab.guru/ to create your time
 
 jobs:
