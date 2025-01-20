@@ -1,0 +1,46 @@
+name: Auto commit
+
+on:
+  push:
+    branches:
+      - main
+      
+  schedule:
+    - cron: "0 */12 * * 1-6"
+    # visit https://crontab.guru/ to create your time
+
+jobs:
+  auto_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: DEBUG 
+        run: echo "::debug::Ref = ${{github.ref}}"
+      
+      - uses: actions/checkout@v3      
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "icogaming404@gmail.com"
+          git config --local user.name "ImRevoltExee"
+
+          arr=("Commit 1" "Commit 2" "Commit 3" "Commit 4" "Commit 5" "Commit 6")
+          
+          loop=$(( ( RANDOM % 5 )  + 1 ))
+          for i in $(seq 1 $loop); do
+            d=$(date '+%Y-%m-%dT%H:%M:%SZ')
+            echo $d >> Update_file
+            
+              git add -A
+              rand=$((RANDOM % ${#arr[@]}))
+              git commit -m "${arr[$rand]}"
+           
+          done
+          
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          directory: "."
+          github_token: ${{ secrets.ACCESS_TOKEN }}
