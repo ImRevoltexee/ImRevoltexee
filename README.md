@@ -14,7 +14,7 @@ Backend, bots and tooling. Python · TypeScript · PHP.
 
 ## Selected work
 
-<sub>ordered by stars, refreshed automatically — last build 2026-11-02 18:06 UTC</sub>
+<sub>ordered by stars, refreshed automatically — last build 2026-11-02 18:18 UTC</sub>
 
 <table>
 <tr>
@@ -63,12 +63,6 @@ Backend, bots and tooling. Python · TypeScript · PHP.
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,php,laravel,nodejs,bash,lua&perline=8&theme=dark" alt="languages" />
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx,mysql,sqlite,redis,git,cloudflare&perline=8&theme=dark" alt="infra" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=ImRevoltexee&theme=tokyonight&hide_border=true&background=0A0A0B00&stroke=C6F24E&ring=C6F24E&fire=F97316&currStreakLabel=C6F24E&sideLabels=94A3B8&dates=64748B" width="64%" alt="streak" />
 
 </div>
 

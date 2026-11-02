@@ -132,12 +132,6 @@ Backend, bots and tooling. Python · TypeScript · PHP.
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user={USER}&theme=tokyonight&hide_border=true&background=0A0A0B00&stroke=C6F24E&ring=C6F24E&fire=F97316&currStreakLabel=C6F24E&sideLabels=94A3B8&dates=64748B" width="64%" alt="streak" />
-
-</div>
-
 ## Elsewhere
 
 <div align="center">
