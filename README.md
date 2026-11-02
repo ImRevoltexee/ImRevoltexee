@@ -1,106 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1220,55:0F4C81,100:22D3EE&text=REVOLT&fontColor=FFFFFF&fontSize=68&fontAlignY=38&desc=Security%20Research%20%C2%B7%20Automation%20%C2%B7%20Backend&descSize=17&descAlignY=58" width="100%" alt="Revolt" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=190&color=gradient&customColorList=2,12,20&text=revolt&fontColor=1F2937&fontSize=58&fontAlignY=42&desc=building%20small%20tools%20%C2%B7%20breaking%20things%20politely&descSize=15&descAlignY=62" width="100%" alt="revolt" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=22D3EE&center=true&vCenter=true&width=680&lines=Security+researcher+%26+bug+bounty+hunter;Bot+and+automation+engineer;API+reverse+engineer;Backend+builder+%E2%80%94+Laravel+%26+Node" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=7C3AED&center=true&vCenter=true&width=620&lines=mostly+writes+Python+these+days;backend+%2B+bot+stuff;sometimes+hunts+bugs+for+fun" alt="typing" />
 
-<p>
-  <a href="https://github.com/ImRevoltexee?tab=followers"><img src="https://img.shields.io/github/followers/ImRevoltexee?label=followers&style=flat-square&color=22D3EE&labelColor=0B1220" alt="followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ImRevoltexee&label=views&color=22D3EE&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/badge/based%20in-Indonesia-0B1220?style=flat-square&logo=googlemaps&logoColor=22D3EE" alt="location" />
-  <img src="https://img.shields.io/badge/status-open%20to%20work-16A34A?style=flat-square" alt="status" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ImRevoltexee&label=visitors&color=7C3AED&style=flat-square" alt="views" />
+<img src="https://img.shields.io/badge/Indonesia-GMT%2B7-F59E0B?style=flat-square" alt="tz" />
 
 </div>
 
----
+## hey
 
-### `> whoami`
+Bukan orang yang nulis CV panjang di profil GitHub. Biasanya cuma bikin tool kecil yang bikin kerjaan 3 jam jadi 3 menit, lalu lanjut ngopi.
 
-I build things that **automate the boring, break the broken, and map the unknown** — recon tooling, self-hosted APIs, bot infrastructure, and backends that hold up under real traffic.
-
-Most of my work starts the same way: *take something that only works by hand, reverse it, and make it run itself.*
-
-```ts
+```js
 const revolt = {
-  role:      ["security researcher", "automation engineer", "backend dev"],
-  focus:     ["recon & bug bounty", "API reverse engineering", "bot systems", "self-hosted infra"],
-  stack:     { primary: ["Python", "TypeScript", "PHP/Laravel", "Bash"], also: ["Lua", "Go", "Docker"] },
-  runtime:   "Debian VPS · Caddy · systemd · Cloudflare",
-  principle: "if it can be automated, it should be",
+  daily:   ["python", "typescript", "php", "bash"],
+  builds:  ["cli tools", "bots", "small apis", "backend stuff"],
+  learns:  "whatever the project needs that week",
+  rule:    "kalau bisa otomatis, jangan manual",
 };
 ```
 
----
+<details>
+<summary><b>yang lagi dikerjain</b></summary>
 
-### `> featured work`
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- ngerapiin tool otomasi biar bisa jalan sendiri tanpa disuruh
+- eksperimen backend kecil buat project sendiri
+- baca-baca source code orang buat belajar pola baru
 
-**[gonka-autoinject](https://github.com/ImRevoltexee/gonka-autoinject)** &nbsp;`★ 14`
-<br/><sub>Python · registration engine + router auto-inject daemon with env-driven config, multi-worker rotation and health checks.</sub>
+</details>
 
-**[REVOLT-HUNTER](https://github.com/ImRevoltexee/REVOLT-HUNTER)**
-<br/><sub>Shell · open-source reconnaissance and bug-bounty automation toolkit built for VPS-first workflows.</sub>
+## beberapa repo
 
-**[revolt-relay](https://github.com/ImRevoltexee/revolt-relay)**
-<br/><sub>JavaScript · card-free egress backend relay powering a streaming front-end.</sub>
+| | |
+|---|---|
+| **[warung-tools](https://github.com/ImRevoltexee/warung-tools)** | tool gratis + API publik, tampilan neobrutalism, tanpa dependency aneh |
+| **[umkm-laravel](https://github.com/ImRevoltexee/umkm-laravel)** | toko online Laravel 13: katalog, cart, checkout, panel admin |
+| **[gonka-autoinject](https://github.com/ImRevoltexee/gonka-autoinject)** | engine registrasi + inject otomatis, config via env |
+| **[REVOLT-HUNTER](https://github.com/ImRevoltexee/REVOLT-HUNTER)** | toolkit recon buat VPS, dipakai buat hunting sendiri |
+| **[revolt-relay](https://github.com/ImRevoltexee/revolt-relay)** | relay backend ringan buat streaming front-end |
+| **[Revolt-Guard](https://github.com/ImRevoltexee/Revolt-Guard)** | dashboard proteksi grup Telegram, anti-link + moderasi |
 
-</td>
-<td width="50%" valign="top">
+<sub>sisanya ada di [tab repositories](https://github.com/ImRevoltexee?tab=repositories)</sub>
 
-**[warung-tools](https://github.com/ImRevoltexee/warung-tools)**
-<br/><sub>HTML · free utility suite + public REST API, neo-brutalist UI, zero-dependency delivery.</sub>
-
-**[umkm-laravel](https://github.com/ImRevoltexee/umkm-laravel)**
-<br/><sub>Laravel 13 · storefront with catalog, cart, checkout and admin panel on SQL.</sub>
-
-**[Revolt-Guard](https://github.com/ImRevoltexee/Revolt-Guard)**
-<br/><sub>TypeScript · Telegram group protection dashboard: anti-link, moderation tooling, audit trail.</sub>
-
-</td>
-</tr>
-</table>
-
-<sub>→ full index: [github.com/ImRevoltexee?tab=repositories](https://github.com/ImRevoltexee?tab=repositories)</sub>
-
----
-
-### `> stack`
+## perkakas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,php,laravel,nodejs,bash,lua&perline=8&theme=dark" alt="stack row 1" />
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,mysql,sqlite,redis,git,cloudflare&perline=8&theme=dark" alt="stack row 2" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,php,laravel,nodejs,bash&perline=7&theme=light" alt="stack" />
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,mysql,sqlite,git,cloudflare&perline=7&theme=light" alt="infra" />
 
 </div>
-
----
-
-### `> signal`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=ImRevoltexee&theme=tokyonight&hide_border=true&background=0B1220&stroke=22D3EE&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" width="70%" alt="streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=ImRevoltexee&theme=vue&hide_border=true&background=FFFFFF00&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=6B7280&dates=9CA3AF" width="62%" alt="streak" />
 
 </div>
 
----
-
-### `> reach me`
+## mampir
 
 <div align="center">
 
-<a href="mailto:revolt@nextisekai.tech"><img src="https://img.shields.io/badge/email-revolt%40nextisekai.tech-0B1220?style=for-the-badge&logo=maildotru&logoColor=22D3EE" alt="email" /></a>
-<a href="https://wa.me/19894738052"><img src="https://img.shields.io/badge/whatsapp-chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
-<a href="https://instagram.com/im.revolt"><img src="https://img.shields.io/badge/instagram-im.revolt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-<a href="https://m.youtube.com/@MrRevolt"><img src="https://img.shields.io/badge/youtube-MrRevolt-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
-<a href="https://saweria.co/Revolt"><img src="https://img.shields.io/badge/support-saweria-FBBF24?style=for-the-badge&logo=buymeacoffee&logoColor=0B1220" alt="saweria" /></a>
+<a href="https://m.youtube.com/@MrRevolt"><img src="https://img.shields.io/badge/YouTube-MrRevolt-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" /></a>
+<a href="https://saweria.co/Revolt"><img src="https://img.shields.io/badge/Saweria-traktir%20kopi-FBBF24?style=for-the-badge&logo=buymeacoffee&logoColor=1F2937" alt="saweria" /></a>
 
 </div>
 
-<div align="center"><sub>Open to freelance builds, automation contracts and private security work.</sub></div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22D3EE,55:0F4C81,100:0B1220" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient&customColorList=2,12,20" width="100%" alt="footer" />
