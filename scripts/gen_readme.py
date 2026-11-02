@@ -7,6 +7,7 @@ import json
 import os
 import re
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 
@@ -94,10 +95,11 @@ def render(repos: list[dict]) -> str:
         f"https://img.shields.io/github/followers/{USER}"
         "?style=flat-square&label=followers&color=C6F24E&labelColor=0A0A0B"
     )
-    views = (
-        f"https://komarev.com/ghpvc/?username={USER}"
-        "&label=views&color=C6F24E&style=flat-square&labelColor=0A0A0B"
+    counter = urllib.parse.quote(
+        os.environ.get("VIEWS_ENDPOINT", f"https://router.mr-revolt.com/views/{USER}.json"),
+        safe="",
     )
+    views = f"https://img.shields.io/endpoint?url={counter}&style=flat-square&labelColor=0A0A0B"
 
     return f"""<div align="center">
 

@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="Revolt" />
 
 <a href="https://github.com/ImRevoltexee?tab=followers"><img src="https://img.shields.io/github/followers/ImRevoltexee?style=flat-square&label=followers&color=C6F24E&labelColor=0A0A0B" alt="followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=ImRevoltexee&label=views&color=C6F24E&style=flat-square&labelColor=0A0A0B" alt="views" />
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frouter.mr-revolt.com%2Fviews%2FImRevoltexee.json&style=flat-square&labelColor=0A0A0B" alt="views" />
 <img src="https://img.shields.io/badge/Indonesia-UTC%2B7-F59E0B?style=flat-square" alt="location" />
 
 </div>
@@ -14,7 +14,7 @@ Backend, bots and tooling. Python · TypeScript · PHP.
 
 ## Selected work
 
-<sub>ordered by stars, refreshed automatically — last build 2026-11-02 18:18 UTC</sub>
+<sub>ordered by stars, refreshed automatically — last build 2026-11-02 18:27 UTC</sub>
 
 <table>
 <tr>
