@@ -1,10 +1,20 @@
+<div align="center">
+
 <img src="assets/header.svg" width="100%" alt="Revolt" />
+
+<a href="https://github.com/ImRevoltexee?tab=followers"><img src="https://img.shields.io/github/followers/ImRevoltexee?style=flat-square&label=followers&color=C6F24E&labelColor=0A0A0B" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=ImRevoltexee&label=views&color=C6F24E&style=flat-square&labelColor=0A0A0B" alt="views" />
+<img src="https://img.shields.io/badge/Indonesia-UTC%2B7-F59E0B?style=flat-square" alt="location" />
+
+</div>
+
+<br/>
 
 Backend, bots and tooling. Python · TypeScript · PHP.
 
 ## Selected work
 
-<sub>ordered by stars, refreshed automatically — last build 2026-11-02 17:58 UTC</sub>
+<sub>ordered by stars, refreshed automatically — last build 2026-11-02 18:05 UTC</sub>
 
 <table>
 <tr>
@@ -49,11 +59,24 @@ Backend, bots and tooling. Python · TypeScript · PHP.
 
 ## Stack
 
-`python` `typescript` `php` `laravel` `node` `bash` `lua` `linux` `docker` `nginx` `mysql` `sqlite` `redis` `git`
+<div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=ImRevoltexee&theme=github-dark&hide_border=true&background=0A0A0B00&ring=C6F24E&fire=C6F24E&currStreakLabel=C6F24E&sideLabels=9CA3AF&dates=6B7280" width="58%" alt="streak" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,php,laravel,nodejs,bash,lua&perline=8&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,mysql,sqlite,redis,git,cloudflare&perline=8&theme=dark" alt="infra" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=ImRevoltexee&theme=tokyonight&hide_border=true&background=0A0A0B00&stroke=C6F24E&ring=C6F24E&fire=F97316&currStreakLabel=C6F24E&sideLabels=94A3B8&dates=64748B" width="64%" alt="streak" />
+
+</div>
 
 ## Elsewhere
 
+<div align="center">
+
 <a href="https://m.youtube.com/@MrRevolt"><img src="https://img.shields.io/badge/YouTube-MrRevolt-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://saweria.co/Revolt"><img src="https://img.shields.io/badge/Saweria-support-C6F24E?style=flat-square&labelColor=0A0A0B&logo=buymeacoffee&logoColor=0A0A0B" alt="Saweria" /></a>
+
+</div>
