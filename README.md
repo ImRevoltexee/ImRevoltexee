@@ -4,7 +4,7 @@ Backend, bots and tooling. Python · TypeScript · PHP.
 
 ## Selected work
 
-<sub>ordered by stars, refreshed automatically — last build 2026-11-02 17:57 UTC</sub>
+<sub>ordered by stars, refreshed automatically — last build 2026-11-02 17:58 UTC</sub>
 
 <table>
 <tr>
@@ -15,31 +15,31 @@ Backend, bots and tooling. Python · TypeScript · PHP.
 </td>
 <td width="50%" valign="top">
 
-**[Rev](https://github.com/ImRevoltexee/Rev)**<br/><sub>ディック</sub><br/><sub>`JavaScript`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/Rev?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
+**[revolt-relay](https://github.com/ImRevoltexee/revolt-relay)**<br/><sub>MovieBox backend relay for REVOLT-STREAM (card-free egress)</sub><br/><sub>`JavaScript`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/revolt-relay?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[grass](https://github.com/ImRevoltexee/grass)**<br/><sub>ORIGINAL SCRIPT : https://github.com/jamikoas/grass-bot</sub><br/><sub>`Python`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/grass?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
+**[umkm-laravel](https://github.com/ImRevoltexee/umkm-laravel)**<br/><sub>UMKM Store — Laravel 13: katalog, keranjang, checkout, panel admin (SQLite)</sub><br/><sub>`Blade`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/umkm-laravel?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
 
 </td>
 <td width="50%" valign="top">
 
-**[REV-API](https://github.com/ImRevoltexee/REV-API)**<br/><sub>🌟</sub><br/><sub>`JavaScript`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/REV-API?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
+**[warung-tools](https://github.com/ImRevoltexee/warung-tools)**<br/><sub>Tools gratis + REST API publik buat anak Indonesia. Neo-brutalism, zero dependency, Vercel free tier.</sub><br/><sub>`HTML`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/warung-tools?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[3in1](https://github.com/ImRevoltexee/3in1)**<br/><sub>Claim 20-40 Satoshi Btc Every Hours</sub><br/><sub>`PHP`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/3in1?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
+**[Revolt-Guard](https://github.com/ImRevoltexee/Revolt-Guard)**<br/><sub>Telegram group protection dashboard with anti-link, moderation tools, announcement system, and owner contro...</sub><br/><sub>`TypeScript`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/Revolt-Guard?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
 
 </td>
 <td width="50%" valign="top">
 
-**[REVBOT-MD5](https://github.com/ImRevoltexee/REVBOT-MD5)**<br/><sub>👉🌟👈</sub><br/><sub>`JavaScript`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/REVBOT-MD5?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
+**[REVOLT-HUNTER](https://github.com/ImRevoltexee/REVOLT-HUNTER)**<br/><sub>Open-source reconnaissance and bug bounty automation toolkit for VPS, Linux, and Termux environments.</sub><br/><sub>`Shell`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/REVOLT-HUNTER?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
 
 </td>
 </tr>

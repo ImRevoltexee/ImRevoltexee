@@ -13,6 +13,7 @@ from datetime import datetime, timezone
 USER = os.environ.get("GH_USER", "ImRevoltexee")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 TOP_N = int(os.environ.get("TOP_N", "6"))
+EXCLUDE = {x.strip().lower() for x in os.environ.get("EXCLUDE", "grass,rev,3in1").split(",") if x.strip()}
 README = os.environ.get("README_PATH", "README.md")
 
 API = "https://api.github.com"
@@ -44,10 +45,13 @@ def pick_repos() -> list[dict]:
     def usable(r: dict) -> bool:
         if r.get("fork") or r.get("archived") or r.get("private"):
             return False
-        if r.get("name", "").lower() == USER.lower():  # profile repo
+        name = r.get("name", "")
+        if name.lower() == USER.lower():  # profile repo
+            return False
+        if name.lower() in EXCLUDE:
             return False
         desc = (r.get("description") or "").strip()
-        if not desc and r.get("stargazers_count", 0) < 3:
+        if len(desc) < 20:  # placeholder / emoji-only descriptions are noise
             return False
         return True
 
