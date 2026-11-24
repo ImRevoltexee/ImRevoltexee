@@ -14,7 +14,7 @@ Backend, bots and tooling. Python · TypeScript · PHP.
 
 ## Selected work
 
-<sub>ordered by stars, refreshed automatically — last build 2026-11-23 11:31 UTC</sub>
+<sub>ordered by stars, refreshed automatically — last build 2026-11-24 13:06 UTC</sub>
 
 <table>
 <tr>
@@ -32,24 +32,24 @@ Backend, bots and tooling. Python · TypeScript · PHP.
 <tr>
 <td width="50%" valign="top">
 
-**[revolt-relay](https://github.com/ImRevoltexee/revolt-relay)**<br/><sub>MovieBox backend relay for REVOLT-STREAM (card-free egress)</sub><br/><sub>`JavaScript`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/revolt-relay?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
+**[Makefun-news-20261124](https://github.com/ImRevoltexee/Makefun-news-20261124)**<br/><sub>Newspaper-style infographic of the world's news on 24 November 2026, built for the make.fun news-image bounty.</sub><br/><sub>`Python`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/Makefun-news-20261124?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
 
 </td>
 <td width="50%" valign="top">
 
-**[umkm-laravel](https://github.com/ImRevoltexee/umkm-laravel)**<br/><sub>UMKM Store — Laravel 13: katalog, keranjang, checkout, panel admin (SQLite)</sub><br/><sub>`Blade`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/umkm-laravel?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
+**[revolt-relay](https://github.com/ImRevoltexee/revolt-relay)**<br/><sub>MovieBox backend relay for REVOLT-STREAM (card-free egress)</sub><br/><sub>`JavaScript`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/revolt-relay?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[warung-tools](https://github.com/ImRevoltexee/warung-tools)**<br/><sub>Tools gratis + REST API publik buat anak Indonesia. Neo-brutalism, zero dependency, Vercel free tier.</sub><br/><sub>`HTML`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/warung-tools?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
+**[umkm-laravel](https://github.com/ImRevoltexee/umkm-laravel)**<br/><sub>UMKM Store — Laravel 13: katalog, keranjang, checkout, panel admin (SQLite)</sub><br/><sub>`Blade`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/umkm-laravel?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
 
 </td>
 <td width="50%" valign="top">
 
-**[Revolt-Guard](https://github.com/ImRevoltexee/Revolt-Guard)**<br/><sub>Telegram group protection dashboard with anti-link, moderation tools, announcement system, and owner contro...</sub><br/><sub>`TypeScript`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/Revolt-Guard?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
+**[warung-tools](https://github.com/ImRevoltexee/warung-tools)**<br/><sub>Tools gratis + REST API publik buat anak Indonesia. Neo-brutalism, zero dependency, Vercel free tier.</sub><br/><sub>`HTML`</sub> ![stars](https://img.shields.io/github/stars/ImRevoltexee/warung-tools?style=flat-square&label=stars&color=C6F24E&labelColor=0A0A0B)
 
 </td>
 </tr>
