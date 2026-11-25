@@ -14,7 +14,7 @@ Backend, bots and tooling. Python · TypeScript · PHP.
 
 ## Selected work
 
-<sub>ordered by stars, refreshed automatically — last build 2026-11-24 13:06 UTC</sub>
+<sub>ordered by stars, refreshed automatically — last build 2026-11-25 11:55 UTC</sub>
 
 <table>
 <tr>
